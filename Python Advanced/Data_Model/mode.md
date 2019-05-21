@@ -8,9 +8,9 @@
 import collections
 card = collections.namedtuple('Card', ['rank', 'suit'])
 ```
-* #### 通过_getitems_可以实现迭代
+* #### 通过`__getitems__`可以实现迭代
 
-* #### 其实len()等方法实际是调用_len_的方法
+* #### 其实`len()`等方法实际是调用`__len__`的方法
 
 * #### 特殊方法的调用是隐式的.如下面i的循环
 
