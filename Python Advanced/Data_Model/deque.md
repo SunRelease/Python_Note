@@ -10,7 +10,7 @@ from multiprocessing import queues
 from asyncio import Queue
 ```
 
--  ####`dq=deque(range(10),maxlen=10)` 
+-  #### `dq=deque(range(10),maxlen=10)` 
 
 > `maxlen`是可选参数,即确定`队列容纳`的数量,确定后不可以改变
 
@@ -26,7 +26,7 @@ deque([0, 1, 2, 3, 4, 5, 6, 7, 8, 9], maxlen=10)
 
 >`n<0`时,`最右边`的元素移到`最左边`
 
-- ####`dq.rotate(3)`    
+- #### `dq.rotate(3)`    
 
 ```
 print(dq)
