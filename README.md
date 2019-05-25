@@ -30,6 +30,8 @@
 
 * -[x] [numpy简例](https://github.com/SunRelease/Python_Note/blob/master/Python%20Advanced/Data_Model/numpy_test.md)
 
+* -[x] [deque队列](https://github.com/SunRelease/Python_Note/blob/master/Python%20Advanced/Data_Model/deque.md)
+
 
 
 
