@@ -28,7 +28,7 @@
 
 * -[x] [数组引用](https://github.com/SunRelease/Python_Note/blob/master/Python%20Advanced/Data_Model/tuples.md)
 
-* -[x] [numpy简例](https://github.com/SunRelease/Python_Note/blob/master/Python%20Advanced/Data_Model/named%20tuple.md)
+* -[x] [numpy简例](https://github.com/SunRelease/Python_Note/blob/master/Python%20Advanced/Data_Model/numpy_test.md)
 
 
 
