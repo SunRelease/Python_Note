@@ -4,7 +4,15 @@
 
 ---
 
-* ## [Data_Model](https://github.com/SunRelease/Python_Note/tree/master/Python%20Advanced/Data_Model)
+## Python-Catalog
+
+#### [Data-Model](#Data-Model)
+
+
+
+<h2 id="Data-Model"> Data-Model<h2>
+
+*  [Data-Model-Folder](https://github.com/SunRelease/Python_Note/tree/master/Python%20Advanced/Data_Model)
 
 * -[x] [内置函数的原理](https://github.com/SunRelease/Python_Note/blob/master/Python%20Advanced/Data_Model/mode.md)
 
