@@ -14,7 +14,7 @@ if __name__ == '__main__':
     result=question()
     print_result(result)
 ```
-- [x] ### 以上的结果是会报错
+- [x] 以上的结果是会报错
 ```
 Traceback (most recent call last):
    File "D:/replication.py", line 4, in <module>
